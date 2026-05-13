@@ -1328,12 +1328,11 @@ keyv@^4.5.4:
     json-buffer "3.0.1"
 
 "langsmith@>=0.5.0 <1.0.0":
-  version "0.5.20"
-  resolved "https://registry.yarnpkg.com/langsmith/-/langsmith-0.5.20.tgz#4021847d2ccd5a86c5eb96060f9bb5f19f80eca5"
-  integrity sha512-ULhLM8RswvQDXufLtNtvclHrWCBx8Cb5UPI6lAZC+8Dq59iHsVPz/3Ac9khWNm1VIvChRsuykixD/WrmzuuA3Q==
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/langsmith/-/langsmith-0.7.0.tgz#0d01f98d3e26dd6d3e7b9f10d9b087b10bfaf157"
+  integrity sha512-iiPAGHJZ3uIHGnnLSkgcYZ4+thzhsGp5U48pWuW3ETgCRtbYzoDxYJigiQ3iWkK8ovF7Vr37tYvbI1ZE0tB+6A==
   dependencies:
     p-queue "6.6.2"
-    uuid "10.0.0"
 
 levn@^0.4.1:
   version "0.4.1"
@@ -1901,7 +1900,7 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-uuid@10.0.0, uuid@^10.0.0:
+uuid@^10.0.0:
   version "10.0.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-10.0.0.tgz#5a95aa454e6e002725c79055fd42aaba30ca6294"
   integrity sha512-8XkAphELsDnEGrDxUOHB3RGvXz6TeuYSGEZBOjtTtPm2lwhGBjLgOzLHB63IUWfBpNucQjND6d3AOudO+H3RWQ==
